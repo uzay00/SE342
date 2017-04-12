@@ -2,6 +2,12 @@ Group ID :
 Student 1:Batuhan HASBAL  
 Student 2:Neslihan KOKOÇ
 
+
+Group ID : 
+Student 1: Hasan Hakan SAYAR  130706007
+Student 2: Tayyip Emre ÖRNEK  130706008
+
+
 Group ID : 
 Student 1:
 Student 2:
@@ -13,11 +19,6 @@ Student 2:
 
 
 Group ID : 
-Student 1:
-Student 2:
-
-
-Group ID : 
-Student 1:
-Student 2:
+Student 1:Merve Özbay
+Student 2:Can Berk İzgi
 
