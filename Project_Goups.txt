@@ -18,6 +18,6 @@ Student 2:
 
 
 Group ID : 
-Student 1:
-Student 2:
+Student 1:Merve Özbay
+Student 2:Can Berk İzgi
 
