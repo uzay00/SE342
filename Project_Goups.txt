@@ -17,8 +17,8 @@ Student 2 Raşit AYDIN 130706018
 
 
 Group ID : 
-Student 1:
-Student 2:
+Student 1:Büşra Ertürk 120706010
+Student 2:Bilal Arıkan 120706002
 
 
 Group ID : 
