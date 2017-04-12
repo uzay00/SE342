@@ -1,3 +1,6 @@
+SE342 Software Testing and Validaiton
+Course Projects
+
 Group ID : 
 Student 1:Batuhan HASBAL  
 Student 2:Neslihan KOKOÇ
