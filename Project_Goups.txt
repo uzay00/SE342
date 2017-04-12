@@ -8,12 +8,12 @@ Student 2:Neslihan KOKOÇ
 
 Group ID : 
 Student 1: Hasan Hakan SAYAR  130706007
-Student 2: Tayyip Emre ÖRNEK  130706008
+Student 2: Tayyip Emre ÖRNEK  130706008           
 
 
 Group ID : 
-Student 1:
-Student 2:
+Student 1:  Gökay AKIN  130706014
+Student 2 Raşit AYDIN 130706018
 
 
 Group ID : 
