@@ -25,3 +25,16 @@ Group ID :
 Student 1:Merve Özbay
 Student 2:Can Berk İzgi
 
+
+Group ID : 
+Student 1: Buse Açıkgöz
+Student 2: Ceren Çobanoğlu
+
+Group ID : 
+Student 1: Mesut İskitoğlu
+Student 2: Alican Yıldırım
+
+
+Group ID : 
+Student 1: Fatih Canbey
+Student 2: Mert Yalçın
