@@ -10,10 +10,10 @@
  
 ## Dersler
  * 5 Nisan 2017 - Testing temel kavramlar
- * 12 Nisan 2017 - Kodlama ve Test işlemleri : git&github, eclemma, juint tests, debugging, java 
- * 19 Nisan 2017 - Coverage Folw Graph
+ * 12 Nisan 2017 - Kodlama ve Test işlemleri : git&github, eclemma, junit tests, debugging, java 
+ * 19 Nisan 2017 - Coverage Folw Graph, junit tests
  * 26 Nisan 2017 - Ara Sınav
- * 3 Mayıs 2017 - Data Flow Coverage
+ * 3 Mayıs 2017 - Data Flow Coverage, Java exceptions
  * 10 Mayıs 2017 - Son ders
  * 17 Mayıs 2017 - Proje yapanların sunumu
  * Daha sonra da final sınavı olacaktır.
@@ -24,6 +24,6 @@
  - [2P] git&github kullanımı
  - [2P] junit testleri
  - [2P] eclemma coverage
- - [2P] debugging
+ - [2P] debugging, try-catch exceptions
  - [2P] Proje konusu
  
