@@ -23,7 +23,7 @@
 
  - [2P] git&github kullanımı
  - [2P] junit testleri
- - [2P] eclemma coverage
+ - [2P] eclemma coverage, javadoc
  - [2P] debugging, try-catch exceptions
  - [2P] Proje konusu
  
