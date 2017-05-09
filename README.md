@@ -27,3 +27,11 @@
  - [2P] debugging, try-catch exceptions
  - [2P] Proje konusu
  
+ 
+ 
+ <hr>
+## Test Güdümlü Programlamaya Atatürk'ten örnek :)
+Başarının sırları 
+Ben, bir işte nasıl başarılı olacağımı düşünmem; o işe neler engel olur, diye düşünürüm. Engelleri kaldırdım mı,iş kendi kendine yürür.
+(Hasan Rıza Soyak, Yakınlarından Hatıralar, 1955, s. 10)
+ 
