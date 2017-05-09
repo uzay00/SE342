@@ -14,7 +14,7 @@
  * 19 Nisan 2017 - Coverage Flow Graph, junit tests
  * 26 Nisan 2017 - Ara Sınav
  * 3 Mayıs 2017 - Data Flow Coverage, Java exceptions
- * 10 Mayıs 2017 - Son ders
+ * 10 Mayıs 2017 - Son ders, Genel Tekrar + [Test Güdümlü Yazılım](http://www.kurumsaljava.com/2008/11/26/test-gudumlu-yazilim-test-driven-development-tdd/)
  * 17 Mayıs 2017 - Proje yapanların sunumu
  * Daha sonra da final sınavı olacaktır.
  
